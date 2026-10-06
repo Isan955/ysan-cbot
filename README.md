@@ -1,4 +1,4 @@
-# 🤖 YSAN Chatbot
+#  YSAN Chatbot
 
 YSAN Chatbot adalah aplikasi chatbot berbasis web yang dibuat memakai **Laravel** dan terintegrasi dengan **OpenRouter API** (AI Model).  
 Chatbot ini dapat digunakan untuk **belajar, membantu pekerjaan, atau sekadar ngobrol santai**.  
@@ -6,18 +6,18 @@ Setiap pengguna memiliki **akun login** dan **riwayat percakapan pribadi**.
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
--   🔐 **Autentikasi Pengguna** (Register, Login, Logout)
--   🏠 **Halaman Welcome** yang modern dengan informasi sosial media
--   📊 **Dashboard Personal** setelah login
--   💬 **Chatbot AI** dengan tampilan interaktif
--   📜 **Riwayat Chat** yang tersimpan di database
--   🎨 **UI Modern & Responsif** (Tailwind + custom CSS)
+-   **Autentikasi Pengguna** (Register, Login, Logout)
+-   **Halaman Welcome** yang modern dengan informasi sosial media
+-   **Dashboard Personal** setelah login
+-   **Chatbot AI** dengan tampilan interaktif
+-   **Riwayat Chat** yang tersimpan di database
+-   **UI Modern & Responsif** (Tailwind + custom CSS)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 -   **Backend**: Laravel 10+
 -   **Frontend**: Blade, Tailwind CSS
@@ -27,7 +27,7 @@ Setiap pengguna memiliki **akun login** dan **riwayat percakapan pribadi**.
 
 ---
 
-## ⚙️ Instalasi & Setup
+## Instalasi & Setup
 
 1. **Clone repository**
 
@@ -87,7 +87,7 @@ Setiap pengguna memiliki **akun login** dan **riwayat percakapan pribadi**.
 
 ---
 
-## 📬 Kontak
+## Kontak
 
 🌐 Website: [my-porto-pearl.vercel.app](https://my-porto-pearl.vercel.app/)  
 📧 Email: contacthasanforbusiness@gmail.com  
