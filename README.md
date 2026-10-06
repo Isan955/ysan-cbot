@@ -74,7 +74,7 @@ Setiap pengguna memiliki **akun login** dan **riwayat percakapan pribadi**.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 -   **Welcome Screen**  
     ![Welcome](docs/screenshots/welcome.png)
@@ -89,6 +89,6 @@ Setiap pengguna memiliki **akun login** dan **riwayat percakapan pribadi**.
 
 ## Kontak
 
-🌐 Website: [my-porto-pearl.vercel.app](https://my-porto-pearl.vercel.app/)  
+🌐 Website: [hysan.my](https://hysan.my/)  
 📧 Email: contacthasanforbusiness@gmail.com  
-📱 Instagram: [@hasannn.py](https://instagram.com/hasannn.py)
+📱 Instagram: [@hasannothusein](https://instagram.com/hasannothusein)
